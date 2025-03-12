@@ -4,9 +4,9 @@ A port scanner is a software tool used to scan a network or a host for open port
 
 ⚠️ In this following program, I have used threads to make the scanning of ports fast. As using of more number of threads can cause in reduction of performance of the system. So kindly use less number of threads to run the program efficiently.
 ### **INSTALLATION AND USAGE**
-      git clone https://github.com/Ashoksanaka/C-projects.git
+      git clone https://github.com/Ashoksanaka/PortScanner.git
       
-      cd C-projects/Portscanner
+      cd Portscanner/
       
       gcc portscanner.c -o "your output file name"
 
